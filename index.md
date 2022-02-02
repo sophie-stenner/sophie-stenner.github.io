@@ -6,3 +6,4 @@ Hermione Granger is part of the golden trio of the Harry Potter Series. She is H
 - hard-working
 - owns a cat
 - fights for elves' rights
+> Now, if you two don't mind, I'm going to bed before either of you come up with another clever idea to get us killed. Or worse,expelled.
